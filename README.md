@@ -39,3 +39,15 @@ How to run
 
 - Run TriviaWatch.py to start the game
 - Designed to run on Windows
+
+Previews
+---------
+
+![](preview/Preview1.jpg)
+
+![](preview/Preview2.jpg)
+
+![](preview/Preview3.jpg)
+
+![](preview/Preview4.jpg)
+
